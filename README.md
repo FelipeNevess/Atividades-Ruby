@@ -6,6 +6,6 @@ O Ruby é uma linguagem de programação orientada a objetos e foi criado para q
 
 [mais informações...](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
 
-## Esse repositório foi especialmente criado para mostrar todo o meu fluxo de aprendizagem obtidas da linguagem Ruby
+## Esse repositório foi especialmente criado para mostrar todo o meu fluxo de aprendizagem obtidas da linguagem Ruby e seu framework Ruby on Rails
 
 Até mais 👋
